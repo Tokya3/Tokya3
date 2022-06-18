@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tokya3
 - 👀 I’m interested in learning everything that involves to be a good Data Analyst
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me tokia@gmx.com
 
 <!---
